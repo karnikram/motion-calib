@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>motion_calib</name>
+  <version>0.0.0</version>
+  <description>The motion_calib package</description>
+
+  <maintainer email="karnikram@gmail.com">karnik</maintainer>
+
+
+  <license>TODO</license>
+  <build_depend>roscpp</build_depend>
+  <build_depend>message_filters</build_depend>
+  <build_depend>aruco_mapping</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>message_filters</run_depend>
+  <run_depend>aruco_mapping</run_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
